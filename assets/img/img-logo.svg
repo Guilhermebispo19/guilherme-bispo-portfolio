@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" fill="none">
+
+  <!-- Fundo -->
+  <rect width="80" height="80" rx="22" fill="#2563eb"></rect>
+
+  <!-- Brilho -->
+  <circle cx="22" cy="20" r="18" fill="rgba(255,255,255,0.12)"></circle>
+
+  <!-- Letras -->
+  <text x="50%" y="52%" text-anchor="middle" dominant-baseline="middle" fill="white" font-size="30" font-family="Poppins, Arial, sans-serif" font-weight="700" letter-spacing="2">
+    GB
+  </text>
+
+</svg>
